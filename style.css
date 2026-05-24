@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>About Me</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="menu">
+<a href="index.html">Home</a>
+<a href="about.html">About Me</a>
+<a href="contact.html">Contact</a>
+</div>
+
+<h1>About Me</h1>
+
+<h2>Hey there!</h2>
+
+<p>
+Hi, my name is ____.  
+I like technology and creative work.  
+I enjoy learning new skills and making projects.
+</p>
+
+<h2>My Tech Stack</h2>
+
+<ul>
+<li>Video Making</li>
+<li>Video Editing</li>
+<li>Programming</li>
+</ul>
+
+<div class="box">
+<h2>Video Making</h2>
+<p>
+I like making videos and creating creative content.
+</p>
+</div>
+
+<div class="box">
+<h2>Video Editing</h2>
+<p>
+I edit videos and make them look better with effects.
+</p>
+</div>
+
+<div class="box">
+<h2>Programming</h2>
+<p>
+I enjoy coding websites and learning new programming skills.
+</p>
+</div>
+
+<h2>Why I Like Tech</h2>
+
+<p>
+Technology helps people create amazing things and solve problems.
+I want to keep learning more.
+</p>
+
+<button>Learn More</button>
+
+<p>THANKS FOR VISITING MY WEBSITE</p>
+<p>SEE YOU SOON BYE.</p>
+
+<p>© 2026 Animal World</p>
+
+</body>
+</html>
